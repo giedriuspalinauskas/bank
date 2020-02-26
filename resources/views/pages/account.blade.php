@@ -32,7 +32,7 @@
                       <div class="row">
                         <div class="col form-group">
                           <label for="">Price: </label>
-                          <input class="form-control" type="float" name="price" value="" placeholder="price">
+                          <input class="form-control" type="number" name="price" value="0.00" min="0" placeholder="price" step=".01">
                         </div>
                         </div>
                         <div class="row">
